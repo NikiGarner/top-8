@@ -1,5 +1,10 @@
-* {
-  font-family: arial, sans-serif;
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            font-family: arial, sans-serif;
 }
 
 h1 {
@@ -17,4 +22,28 @@ h2 {
 
 #number-of-friends {
   color: red;
+}
+
+.friend {
+  width: 20%;
+  float: left;
+  margin-right: 2.5%;
+  margin-left: 2.5%;
+}
+
+.name, .headshot, .online-now {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name {
+  color: #5371bc;
+  font-size: .8em;
+  text-align: center;
+}
+
+.headshot {
+  border: solid #5371bc 2px;
+  width: 90%;
 }
