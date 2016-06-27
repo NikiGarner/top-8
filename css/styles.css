@@ -47,3 +47,13 @@ h2 {
   border: solid #5371bc 2px;
   width: 90%;
 }
+
+#all-friends {
+  font-size: .8em;
+  color: red;
+  float: right;
+  margin-top: 2em;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: .6em;
+}
