@@ -1,4 +1,4 @@
-# TOp-8
+# Top-8
 
 #### By Kevin VanEvery and Niki Garner
 
