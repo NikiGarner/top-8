@@ -4,40 +4,7 @@
 
 ## Description
 
-This repository contains the following folders and files.  They can be used to support a basic project template for the beginning of each of your projects.
-
-### css
-
-This folder contains the css files that support the Bootstrap framework in parallel with files in the /js folder.  There is also a styles.css file which contains custom user scripts.
-
-### js
-
-This folder contains the js files that support the Bootstrap framework in parallel with files in the /css folder.  It also contains the js files to support JQuery.  There is also a scripts.js file which contains custom user scripts.
-
-### fonts
-
-This folder contains the files which support glyphicons in Bootstrap.
-
-### img
-
-This folder contains useful placeholder images.  
-
-
-### index.html
-
-This file contains basic markup for a starter page.  
-
-### css/styles.css
-
-This is your custom css file.
-
-### js/scripts.js
-
-This is your custom js file.
-
-### README.md
-
-You're looking at it.
+This repository was a project for the CSS course at Epicodus. The purpose of this project was to floats to style the page.
 
 ## Setup/Installation Requirements
 
